@@ -1,0 +1,19 @@
+app/
+  models/
+    user.py
+    preferences.py
+    consent.py
+    journal.py
+    voice.py
+    analysis.py
+    checkin.py
+    intervention.py
+    insight.py
+    memory.py
+    safety.py
+    behavioral.py
+    model_run.py
+  schemas/
+  routes/
+  services/
+  repositories/
